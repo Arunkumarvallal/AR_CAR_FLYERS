@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="example_5-star_grayscale" size="3.000000 2.100000" />
+    <ImageTarget name="vuforia-augmented-reality-development-platform" size="3.000000 1.687500" />
+    <ImageTarget name="1" size="200.000000 112.676056" />
+  </Tracking>
+</QCARConfig>
